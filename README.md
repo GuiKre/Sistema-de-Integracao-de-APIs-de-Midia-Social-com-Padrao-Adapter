@@ -1,0 +1,1 @@
+# Sistema-de-Integracao-de-APIs-de-Midia-Social-com-Padrao-Adapter
