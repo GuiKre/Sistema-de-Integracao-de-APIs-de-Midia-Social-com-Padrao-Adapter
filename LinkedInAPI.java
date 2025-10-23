@@ -6,7 +6,7 @@ public class LinkedInAPI {
     public LinkedInAPI(String clientId, String clientSecret) {
         this.clientId = clientId;
         this.clientSecret = clientSecret;
-        System.out.println("LinkedInAPI conectado com o Client ID: " + clientId.substring(0, 4) + "...");
+        System.out.println("LinkedInAPI conectado com o Client ID: " + this.clientId.substring(0, 4) + "...");
     }
 
     public String sharePost(LinkedInPostData postData) {
